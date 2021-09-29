@@ -58,7 +58,7 @@ body {
   display: flex;
   flex-direction: column;
   align-itens: center;
-  background: linear-gradient(230.65deg, #499CFE 27.49%, #9CC8FC 83.19%);
+  background: linear-gradient(230.65deg, #48D1CC 27.49%, #40E0D0 83.19%);
 box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
 border-radius: 20px;
   margin-top: 32px;
